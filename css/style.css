@@ -1,0 +1,47 @@
+.qwe{
+    width:150px ;height:150px ;margin:0 auto;
+}
+#image-id{
+    margin: 0 auto;
+}
+.axe{
+    width:150px;height: 150px;border-radius: 50%;
+}
+.doo{
+    display: block;width:400px;height: 30px;
+    background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+}
+label{
+    font-size: 20px;
+}
+.btn1{margin-top: 10px;
+    width: 400px;height: 30px;background-color: #4CAF50;border-color: transparent;border-radius: 3px;
+}
+.box{
+    position: fixed;top: 20px;left:35%;width:400px;height:400px;background-color: transparent;display: none;z-index: 9;
+}
+.we{
+    background-color: #0fffff;width: 200px;height: 200px;
+  }
+.we input{
+    background-color:rebeccapurple;
+}
+.check{
+    float: left;background-color: #5a6268;width: 20px;height: 20px;margin-top: 5px;margin-left: 2px;
+}
+.Remember{
+    font-size: 20px;margin-top: 5px;padding: 5px;margin-left: 5px;
+}
+.cancel{
+    width:100px;background-color: #f44336;padding: 9px 20px;border-color: transparent;border-radius: 3px;
+}
+.container{
+width: 300px;height: 100px;background-color:transparent;
+}
+.container span {
+    font-size:17px;
+    float:right;margin-top:8px;
+}
+.hol{
+    background-color: #0fffff;padding: 10px 20px;
+}
